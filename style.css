@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #000000;
+ 
+ 
+}
+
+.container{
+  width: 1440px;
+  margin: 0px  auto 0px auto;
+  min-height:100%;
+  background:linear-gradient(0deg, rgba(42, 45, 66, 0.8), rgba(29, 35, 60, 0.9)), url(./assets/pexels-maxyne-barcel-10402282\ 1.png);
+  background-size:cover;
+  padding: 40px 40px;
+ }
+  
+
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
+.navbar{ 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul.list{
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+
+}
+ul.list li a{
+ color: #ffc234;
+ padding: 0px 40px;
+ text-decoration: none;
+ letter-spacing: 1px; 
+}
+ul.list li a:hover{
+  color:#ff515f;  cursor: pointer;
+}
+ .logo{ width: 150px;}
+
+.button-small{
+    padding: 10px 40px;
+    color: #fff;
+    background-color: #ff515f;
+    border:solid 1px #ff515f;
+    font-weight: 800; font-size: larger;
+  }
+  .button-large{
+    padding: 20px 70px;
+    color: #fff;
+    background-color: #ff515f;
+    border:solid 1px #ff515f;
+    font-weight: 800; font-size: 30px; margin-top: 58px;
+}
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+/* ------------------------------ */
+
+.hero{
+  margin-top: 120px; text-align: center; position: relative;
+}
+.hero-heading{
+    color: #ffc234;
+    font-size: 107px;
+    font-family: 'Dela Gothic One';
+    font-weight: 400;
+    line-height: 122px;
+}
+
+.bottom{ display: flex; justify-content: end; cursor: pointer;}
