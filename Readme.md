@@ -1,7 +1,19 @@
-# Html project with css and images
+## Name - Rajnish Sharma 
 
-## project is learning purpose for free
+### Project Name - Food restuarant Homepage.
 
- pushing code to git and github
+##### Learn somthing new with position and background position properties.
+### Technologies
+- HTML 5
+- CSS 3
+- SVG Images
+### Benefit of learning HTML
+##### Learning how to code allows you to bring out your personality on your own website.
 
-![badge](https://img.shields.io/badge/HTML-PROJECT-brightgreen)
+### Time.
+#### 4 hours
+
+### Porject link
+[live vercel link](https://html-css-project2.vercel.app/)
+
+![badge](https://img.shields.io/badge/HTML-CSS-blue)
